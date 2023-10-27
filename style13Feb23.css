@@ -1,0 +1,17 @@
+/* Hover */
+/* The :hover selector is used to select elements when you mouse over them.
+
+Tip: The :hover selector can be used on all elements, not only on links. */
+/* the spacing is very important ie p:hover, there is no space between p and the colon, if you space it will not work */
+p:hover {
+  color: rebeccapurple;
+}
+
+.header:hover {
+  background: blue;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
